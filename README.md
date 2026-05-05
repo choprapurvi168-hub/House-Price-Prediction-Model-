@@ -24,6 +24,12 @@ R² Score
 Mean Squared Error (MSE)
 Visualization of Actual vs Predicted values
 
+<img width="929" height="774" alt="image" src="https://github.com/user-attachments/assets/cf34860d-dd3f-4e66-83d6-bdd2c755d6c4" />
+
+<img width="759" height="698" alt="image" src="https://github.com/user-attachments/assets/676ab650-bf4b-4fee-83ad-be30b779b99f" />
+
+<img width="941" height="692" alt="image" src="https://github.com/user-attachments/assets/f42ab5a2-e2e8-4356-a025-f412ed2c7d6f" />
+
 Results--
 Linear Regression and Random Forest works well for simple relationships
 Polynomial Regression improves accuracy for complex/non-linear data
